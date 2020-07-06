@@ -1,4 +1,4 @@
-#This is a QA system by Team 1 (Sai Vikas Devisetty,Rushika Kumbum and Lakshmi Prasanna Gundabolu)
+#This is a QA system developed by Sai Vikas Devisetty as a part of the course work Natural Language Processing by Dr.duoduo Liao of George Mason University
 #It will try to answer questions that start with Who, What, When or Where.
 #please download mylogfile.txt and qa-system.py files into the same folder
 #importing the required packages
