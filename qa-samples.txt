@@ -1,0 +1,104 @@
+Factual questions starting with 'Who'
+1.Who is Donald Trump ?
+Correct Answer:
+Donald Trump, the owner of the Trump Organization and 45th president of the United States, is a prominent American family active in real estate, entertainment, business, and politics.
+My System Answer:
+The family of Donald Trump, the owner of the Trump Organization and 45th president of the United States, is a prominent American family active in real estate, entertainment, business, and politics.
+2.Who is Sachin Tendulkar ?
+Correct Answer:
+Sachin Ramesh Tendulkar is an Indian former international cricketer and a former captain of the Indian national team.
+My System Answer:
+Sachin Ramesh Tendulkar ( (listen); born 24 April 1973) is an Indian former international cricketer and a former captain of the Indian national team.
+3.Who is Barack Obama ?
+Correct Answer:
+Barack Obama Sr. Kalorama is an American politician and attorney who served as the 44th president of the United States
+My System Answer:
+Barack Hussein Obama Sr.
+4.Who is Michael Jordan ?
+Correct Answer:
+Michael Jeffrey Jordan (born February 17, 1963), also known by his initials MJ, is an American former professional basketball player and the principal owner of the Charlotte Hornets of the National Basketball Association (NBA).
+My System Answer:
+Michael Jeffrey Jordan (born February 17, 1963), also known by his initials MJ, is an American former professional basketball player and the principal owner of the Charlotte Hornets of the National Basketball Association (NBA).
+5.Who is the prime minister of India ?
+Correct Answer:
+Narendra Modi is the prime minister of India
+My System Answer: 
+The Prime Minister of India is the chief executive of the Government of India.
+Factual questions starting with 'What'
+1.What is a bicycle ?
+Correct Answer:
+A bicycle, also called a bike or cycle, is a human-powered or motor-powered, pedal-driven, single-track vehicle, having two wheels attached to a frame, one behind the other.
+My System Answer: 
+A bicycle, also called a bike or cycle, is a human-powered or motor-powered, pedal-driven, single-track vehicle, having two wheels attached to a frame, one behind the other.
+2.what is an airport ?
+Correct Answer:
+An airport is an aerodrome with extended facilities, mostly for commercial air transport.
+My System Answer: 
+An airport is an aerodrome with extended facilities, mostly for commercial air transport.
+3.what is a bus ?
+Correct Answer:
+A bus (contracted from omnibus, with variants multibus, motorbus, autobus, etc.) is a road vehicle designed to carry many passengers.
+My System Answer: 
+A bus (contracted from omnibus, with variants multibus, motorbus, autobus, etc.) is a road vehicle designed to carry many passengers.
+4.what is honey ?
+Correct Answer:
+Honey is a sweet, viscous food substance made by honey bees and some related insects.
+My System Answer: 
+Honey is a sweet, viscous food substance made by honey bees and some related insects.
+5.what is whisky ?
+Correct Answer:
+whisky is malt whisky or grain whisky (or a blend of the two), made in Scotland.
+My System Answer: 
+Scotch whisky (Scottish Gaelic: uisge-beatha na h-Alba; often simply called whisky or Scotch) is malt whisky or grain whisky (or a blend of the two), made in Scotland.
+Factual questions starting with 'When'
+1.when did world war 2 take place?
+Correct Answer:
+World War II (often abbreviated to WWII or WW2), also known as the Second World War, was a global war that lasted from 1939 to 1945.
+My System Answer: 
+World War II (often abbreviated to WWII or WW2), also known as the Second World War, was a global war that lasted from 1939 to 1945.
+2.when did world war 1 take place?
+Correct Answer:
+World War I (often abbreviated as WWI or WW1), also known as the First World War or the Great War, was a global war originating in Europe that lasted from 28 July 1914 to 11 November 1918.
+My System Answer: 
+World War I (often abbreviated as WWI or WW1), also known as the First World War or the Great War, was a global war originating in Europe that lasted from 28 July 1914 to 11 November 1918.
+3.when did Virat Kohli marry?
+Correct Answer:
+Virat kohli married on December 11,2017.
+My System Answer: 
+I am sorry, I dont know the answer.
+4.when did India get Independence?
+Correct Answer:
+The Indian Independence Movement was a series of activities with the ultimate aim of ending the British rule in India.
+My System Answer: 
+The Indian Independence Movement was a series of activities with the ultimate aim of ending the British rule in India.
+5.when was Apple founded?
+Correct Answer:
+Apple was founded on April 1,1976
+My System Answer: 
+Apple Inc.
+Factual questions starting with 'Where'
+1.where is fairfax?
+Correct Answer:
+The City of Fairfax ( FAIR-faks), colloquially known as Fairfax City, Downtown Fairfax, Old Town Fairfax, Fairfax Courthouse, or simply just Fairfax, is an independent city in the Commonwealth of Virginia in the United States.
+My System Answer:
+The City of Fairfax ( FAIR-faks), colloquially known as Fairfax City, Downtown Fairfax, Old Town Fairfax, Fairfax Courthouse, or simply just Fairfax, is an independent city in the Commonwealth of Virginia in the United States.
+2.where is eiffel tower?
+Correct Answer:
+Eiffel tower is present in paris,france
+My System Answer:
+I am sorry, I dont know the answer.
+3.where is capitol building?
+Correct Answer:
+The United States Capitol, often called the Capitol Building, is the home of the United States Congress and the seat of the legislative branch of the U.S. federal government.
+My System Answer:
+The United States Capitol, often called the Capitol Building, is the home of the United States Congress and the seat of the legislative branch of the U.S. federal government.
+4.where is white house?
+Correct Answer:
+The White House is the official residence and workplace of the president of the United States.
+My System Answer:
+The White House is the official residence and workplace of the president of the United States.
+5.where is Duluth,Minnesota?
+Correct Answer:
+Duluth  (listen) is a port city in the U.S. state of Minnesota and the county seat of Saint Louis County.
+My System Answer:
+Duluth  (listen) is a port city in the U.S. state of Minnesota and the county seat of Saint Louis County.
